@@ -1,2 +1,2 @@
 console.log("Hola Mundo");
-console.log("Krystel Alondra Loria Montiel");
+console.log("Krystel Loria Montiel");
